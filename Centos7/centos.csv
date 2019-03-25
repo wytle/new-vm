@@ -1,2 +1,2 @@
 name,host,datastore,template,customization,ipaddress,subnetmask,defaultgw,dns1,dns2,vlan,mem,cpu,resourcepool,osname,domain,disktype
-dyser-test,10.200.1.13,Datastore00,Template-centos7,CentOS7,172.16.48.154,255.255.255.0,172.16.48.1,172.16.48.10,114.114.114.114,vlan-view,4096,8,TEST,,dongyin.com,Thick
+dyser-test,,Datastore00,Template-centos7,CentOS7,,,,,114.114.114.114,,4096,8,TEST,,,Thick
