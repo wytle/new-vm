@@ -1,0 +1,2 @@
+name,host,datastore,template,customization,ipaddress,subnetmask,defaultgw,dns1,dns2,vlan,mem,cpu,resourcepool,osname,domain,disktype
+dyser-10,10.200.1.13,Datastore00,dyser-09,ws2008-ad,172.16.48.160,255.255.255.0,172.16.48.1,172.16.48.10,114.114.114.114,vlan-view,4096,8,TEST,,dongyin.com,Thick
