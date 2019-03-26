@@ -1,0 +1,2 @@
+name,host,datastore,template,customization,ipaddress,subnetmask,defaultgw,dns1,dns2,vlan,mem,cpu,resourcepool,osname,domain,disktype
+,,Datastore00,Template-ws2003,ws2003-ad,,255.255.255.0,,,114.114.114.114,,4096,8,TEST,,,Thick

@@ -1,0 +1,2 @@
+name,host,datastore,template,customization,ipaddress,subnetmask,defaultgw,dns1,dns2,vlan,mem,cpu,resourcepool,osname,domain,disktype
+dyser-10,,Datastore00,Template-ws2012,ws2012-ad,,255.255.255.0,,,114.114.114.114,,4096,8,TEST,,,Thick
